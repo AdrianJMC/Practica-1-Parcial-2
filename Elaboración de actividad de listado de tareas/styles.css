@@ -1,0 +1,23 @@
+.list-group-item-resolved {
+  background-color: #00ff3c !important; /* Verde claro */
+}
+
+.list-group-item-overdue {
+  background-color: #ff0015 !important; /* Rojo claro */
+}
+
+.list-group-item-pending {
+  background-color: #ffffff !important; /* Blanco */
+}
+
+.completed-task {
+  text-decoration: line-through;
+}
+
+#taskList {
+  margin-top: 20px;
+}
+
+button {
+  margin-left: 5px;
+}
